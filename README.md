@@ -2,7 +2,7 @@ Hi there 👋 I'm **Ramdas**
 
 - 🔭 I’m currently working on Harmonic Generator with Laparoscopic Instrument
 - 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborateon Endoscopy devices manufacturers
+- 👯 I’m looking to collaborate on Endoscopy devices manufacturers
 - 🤔 I’m looking for help with Github porfolio making
 - 💬 Ask me about Mechanical Designing, CAD/CAM
 - 📫 How to reach me: [LinkedIn : ramdas369](https://www.linkedin.com/in/ramdas369/) 

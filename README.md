@@ -16,5 +16,4 @@ Software Knowledge: <img src="https://user-images.githubusercontent.com/63389062
 
 
 <!--START_SECTION:activity-->
-.github/workflows/update-readme.yml
 

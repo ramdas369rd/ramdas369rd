@@ -24,8 +24,9 @@ I am a results-driven technical leader with extensive experience in robotics, au
 
 ### **Technical Expertise**
 - **Robotics Design & Integration:** Autonomous Systems, UAVs, ROS
-- **Programming:** Python, C++, MATLAB
-- **Tools:** JIRA, LINEAR, AutoCAD, LabVIEW
+- **Programming:** Python, C++, MATLAB, Arduino, Java
+- **Embedded Systems & Hardware Development:** PCB Design, Circuit Development
+- **Mechanical Design:** CAD/CAM, Product Design & Analysis
 
 ### **Project Management**
 - Agile, Scrum, and Waterfall methodologies
@@ -72,6 +73,17 @@ I am a results-driven technical leader with extensive experience in robotics, au
 | **Hybrid Hydroponics System**                      | Innovative hydroponics for Indian climates.                       | 30% yield boost, 70% water savings.           |
 
 > Check out more in my [Repositories](https://github.com/ramdas369rd?tab=repositories).
+
+---
+
+## 📣 **Company Projects & Research**
+
+As the **Founder & R&D Lead** at [KinKinetics](https://github.com/ramdaskinkinetics), I lead innovative projects in robotics and automation for isolated environments. Our focus includes developing specialized systems for psychological and emotional support in space and challenging environments.
+
+- **Robotics for Emotional Support Systems**: Developing autonomous systems to monitor and support psychological well-being.
+- **Innovative Life Support Technologies**: Advancing hardware for space technology applications.
+
+You can explore our ongoing projects on the [KinKinetics GitHub](https://github.com/ramdaskinkinetics).
 
 ---
 

@@ -15,8 +15,8 @@
 I am a results-driven technical leader with extensive experience in robotics, automation, and project management. With a proven track record of managing diverse teams and delivering impactful results, I specialize in:
 
 - Driving **New Product Introduction (NPI)** and reducing time-to-market.
-- Designing and deploying cutting-edge **robotic systems** for industrial and defense applications.
-- Leading **cross-functional teams** to deliver innovative hardware solutions.
+- Designing and deploying cutting-edge **robotic systems** for industrial and defence applications.
+- Lead **cross-functional teams** to deliver innovative hardware solutions.
 
 ---
 
@@ -78,7 +78,7 @@ I am a results-driven technical leader with extensive experience in robotics, au
 
 ## 📣 **Company Projects & Research**
 
-As the **Founder & R&D Lead** at [KinKinetics](https://github.com/ramdaskinkinetics), I lead innovative projects in robotics and automation for isolated environments. Our focus includes developing specialized systems for psychological and emotional support in space and challenging environments.
+As the **Founder & R&D Lead** at [KinKinetics](https://github.com/ramdaskinkinetics), I lead innovative projects in robotics and automation for isolated environments. Our focus includes developing specialized psychological and emotional support systems in space and challenging environments.
 
 - **Robotics for Emotional Support Systems**: Developing autonomous systems to monitor and support psychological well-being.
 - **Innovative Life Support Technologies**: Advancing hardware for space technology applications.
